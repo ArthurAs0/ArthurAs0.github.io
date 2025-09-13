@@ -50,7 +50,6 @@
     "@react-hook/resize-observer": "^2.0.2",
     "@tailwindcss/container-queries": "^0.1.1",
     "@tailwindcss/typography": "^0.5.15",
-    "@tailwindcss/vite": "^3.4.0",
     "@wix/astro": "1.0.31",
     "@wix/auto-patterns": "1.17.0",
     "@wix/babel-plugin-jsx-dynamic-data": "^1.0.8",
