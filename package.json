@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "npx && vite build",
     "preview": "vite preview",
     "check": "npx astro check --js-only",
     "test:run": "vitest run",
