@@ -1,6 +1,0 @@
-@echo off
-echo Installing project dependencies...
-npm install --legacy-peer-deps
-echo.
-echo Starting development server...
-npm run dev
